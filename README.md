@@ -7,6 +7,6 @@ Detalii hardware:
   Atât platforma propriu-zisă, articuația dintre motoare, cât și suportul au fost printate la imprimanta 3D
 
 Detalii software: 
-  Bibliotecile "Wire.h" și #include "I2Cdev.h" asigură comunicarea între Arduino Uno și senzorul giroscopic. 
+  Bibliotecile "Wire.h" și "I2Cdev.h" asigură comunicarea între Arduino Uno și senzorul giroscopic. 
   Biblioteca "MPU6050_6Axis_MotionApps20.h" oferă funcțiile necesare pentru calculul unghiurilor față de planul orizontal. 
-  Mișcările înregistrate de senzor sunt exprimateinițial sub formă de rotații (unghi) față de o axă (vector din R^3), deci folosind 4 parametri. Poziția relativă față de plan este codificată sub forma unui quaternion (generalizare a numerelor complexe) din care se extrag unghiurile yaw, pitch și roll
+  Mișcările înregistrate de senzor sunt exprimateinițial sub formă de rotații (unghi) față de o axă (vector din R^3), deci folosind 4 parametri. Poziția relativă față de plan este codificată sub forma unui quaternion (generalizare a numerelor complexe) din care se extrag unghiurile yaw, pitch și roll.
