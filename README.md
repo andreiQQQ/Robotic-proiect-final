@@ -1,4 +1,5 @@
 # Robotica-proiect-final
+https://drive.google.com/open?id=1PIc0ZvXYDoEzCNCmTHgd-1lGu_auBPBD
 Proiectul constă dintr-o platformă care rămâne în echilibru (orizontal) atunci când suportul ei este mișcat
 
 Detalii hardware:
